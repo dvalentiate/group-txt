@@ -1,6 +1,6 @@
 {
 	"name": "group-txt",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Group txt conferencing",
 	"scripts": {
 		"start": "node lib/main.js"
